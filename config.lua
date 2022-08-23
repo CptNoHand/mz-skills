@@ -4,7 +4,7 @@ Config.UpdateFrequency = 300 -- seconds interval between removing values
 
 Config.Notifications = true -- notification when skill is added
 
-Config.NotifyType = 'okok' -- notification type: '3d' for 3d Messagebox, 'qb' for QBCore notification, 'tnj' for tnj notification
+Config.NotifyType = 'qb' -- notification type: '3d' for 3d Messagebox, 'qb' for QBCore notification, 'tnj' for tnj notification
 
 Config.Debug = false -- debug print
 
